@@ -10,7 +10,7 @@ This example integrates semantic similarity search (powered by [.NET Smart Compo
 
 ![](https://community.devexpress.com/blogs/winforms/Smart_AI_Filter_iHEYORqKb0.gif)
 
-Implemented [Local Embeddings](https://github.com/dotnet-smartcomponents/smartcomponents/blob/main/docs/local-embeddings.md) allow you to run this project locally, without external AI services. It downloads an ML model when you first build your application (you can configure which model is downloaded). Refer to the following blog post for more information and the complete tutorial: [WinForms — How to Integrate Semantic Similarity Search in the Grid Control (Powered by Embedding Models)](https://community.devexpress.com/blogs/winforms/archive/2024/06/04/winforms-how-to-integrate-semantic-similarity-search-in-the-grid-control-powered-by-smartcomponents-local-embeddings.aspx).
+Implemented [Local Embeddings](https://github.com/dotnet-smartcomponents/smartcomponents/blob/main/docs/local-embeddings.md) allow you to run this project locally without external AI services. It downloads an ML model when you first build your application (you can configure which model is downloaded). Refer to the following blog post for more information and the complete tutorial: [WinForms — How to Integrate Semantic Similarity Search in the Grid Control (Powered by Embedding Models)](https://community.devexpress.com/blogs/winforms/archive/2024/06/04/winforms-how-to-integrate-semantic-similarity-search-in-the-grid-control-powered-by-smartcomponents-local-embeddings.aspx).
 
 ## Files to Review
 
