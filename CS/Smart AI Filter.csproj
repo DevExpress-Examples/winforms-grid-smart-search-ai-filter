@@ -9,6 +9,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
     <ForceDesignerDpiUnaware>true</ForceDesignerDpiUnaware>
+<LocalEmbeddingsModelCacheDir>$(OuputDir)\.cache\</LocalEmbeddingsModelCacheDir>
   </PropertyGroup>
 
   <ItemGroup>
